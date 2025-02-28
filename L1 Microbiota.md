@@ -1,11 +1,11 @@
 # 2.21/2.28 Microbiota
 ## 要求
-．．．* 文献汇报-一学期两次
-．．．* Introduciton、methods
-．．．* 科学研究问题
-．．．* 技术手段
-．．．*　数据分析
-．．．＊　成绩：50%课堂讨论+50%期末考试
+* 文献汇报-一学期两次
+　* Introduciton、methods
+  * 科学研究问题
+  * 技术手段
+  * 数据分析
+  * 成绩：50%课堂讨论+50%期末考试
 
 Human microbiota
 1.	Terminology：
